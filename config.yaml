@@ -10,10 +10,10 @@ pygmentsUseClasses: yes
 pygmentsCodeFences: yes
 pygmentsCodefencesGuessSyntax: yes
 params:
-  author: Jane Doe
+  author: Chengzhou Wu
   customCss: []
   customJs: []
-  description: Call me Jane
+  description: Call me Chengzhou
   doNotLoadAnimations: no
   favicon: favicons/
   images: images/site-feature-image.png
@@ -27,17 +27,17 @@ params:
   socialIcons:
     - icon: fab fa-linkedin
       title: Linkedin
-      url: https://de.linkedin.com/
+      url: https://www.linkedin.com/in/chengzhou-wu-81854713a/
     - icon: fab fa-github
       title: GitHub
-      url: https://github.com/lxndrblz/anatole/
-    - icon: fab fa-instagram
-      title: instagram
-      url: https://www.instagram.com/
+      url: https://github.com/chengzhouwu
+    - icon: fab fa-facebook
+      title: facebook
+      url: https://www.facebook.com/chengzhou.wu.9
     - icon: fas fa-envelope
       title: e-mail
-      url: mailto:mail@alexbilz.com
-  title: I'm Jane Doe
+      url: chengzhouwu8@gmail.com
+  title: I'm Chengzhou
 menu:
   main:
     - identifier: home
