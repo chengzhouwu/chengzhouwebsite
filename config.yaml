@@ -1,0 +1,58 @@
+baseURL: https://example.com
+languageCode: en
+DefaultContentLanguage: en
+title: Website of Jane Doe
+theme: anatole
+summarylength: 10
+enableEmoji: yes
+enableRobotsTXT: yes
+pygmentsUseClasses: yes
+pygmentsCodeFences: yes
+pygmentsCodefencesGuessSyntax: yes
+params:
+  author: Jane Doe
+  customCss: []
+  customJs: []
+  description: Call me Jane
+  doNotLoadAnimations: no
+  favicon: favicons/
+  images: images/site-feature-image.png
+  keywords: ''
+  mainSections: post
+  math:
+    enable: no
+    use: katex
+  profilePicture: images/profile.jpg
+  simpleAnalytics: {}
+  socialIcons:
+    - icon: fab fa-linkedin
+      title: Linkedin
+      url: https://de.linkedin.com/
+    - icon: fab fa-github
+      title: GitHub
+      url: https://github.com/lxndrblz/anatole/
+    - icon: fab fa-instagram
+      title: instagram
+      url: https://www.instagram.com/
+    - icon: fas fa-envelope
+      title: e-mail
+      url: mailto:mail@alexbilz.com
+  title: I'm Jane Doe
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 100
+    - identifier: posts
+      name: Posts
+      url: /post/
+      weight: 200
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 300
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 400
