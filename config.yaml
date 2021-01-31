@@ -16,7 +16,7 @@ params:
   description: Call me Chengzhou
   doNotLoadAnimations: no
   favicon: favicons/
-  images: images/site-feature-image.png
+  images: images/site-feature-image.png  
   keywords: ''
   mainSections: post
   math:
