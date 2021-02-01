@@ -12,8 +12,8 @@ pygmentsCodefencesGuessSyntax: yes
 params:
   author: Chengzhou Wu
   customCss: []
-  customJs: []
-  description: Call me Chengzhou
+  customJs: [] 
+  description: I Know That I know Nothing
   doNotLoadAnimations: no
   favicon: favicons/
   images: images/site-feature-image.png  
@@ -37,6 +37,9 @@ params:
     - icon: fas fa-envelope
       title: e-mail
       url: chengzhouwu8@gmail.com
+    - icon: fas fa-blog
+      title: blog
+      url: https://www.blogger.com/blog/posts/2699859555582620120
   title: I'm Chengzhou
 menu:
   main:
