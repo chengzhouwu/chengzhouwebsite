@@ -21,13 +21,13 @@ MS in Biostatistics/Statistics
 
 MS in in Organic Chemistry
 
-Thesis:
+Thesis: https://www.maipdf.com/pdf/?email=enbYSAwd4Oeegz
 
--Yantai University China. Yantai
+-Yantai University China. Yantai 
 
 BS in Applied Chemistry
 
-Thesis:
+Thesis: https://www.maipdf.com/pdf/?email=enjPT6YvHYPWMz 
 
 
 
