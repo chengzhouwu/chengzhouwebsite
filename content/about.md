@@ -19,7 +19,7 @@ MS in Biostatistics/Statistics
 
 -Nankai University China. Tianjin
 
-MS in in Organic Chemistry 
+MS in in Organic Chemistry   
 
 Thesis: https://www.maipdf.com/pdf/?email=enbYSAwd4Oeegz
 

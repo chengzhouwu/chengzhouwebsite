@@ -40,7 +40,7 @@ params:
     - icon: fas fa-blog
       title: blog
       url: https://www.blogger.com/blog/posts/2699859555582620120
-  title: I'm Chengzhou
+  title: Chengzhou
 menu:
   main:
     - identifier: home
